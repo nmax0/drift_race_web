@@ -1,8 +1,11 @@
 {
-  "map_name": "Beta Center",
+  "map_name": "Acres Fields",
   "categories": {
-    "classic_race": [
-      
+    "best_lap": [
+        {"rank": 1, "player": "lucas_rs", "time": "00:27:02", "car": "r34", "date": "26/05/2026"},
+        {"rank": 2, "player": "nmax", "time": "00:27:56", "car": "911", "date": "26/05/2026"},
+        {"rank": 3, "player": "legoman", "time": "00:27:88", "car": "r34", "date": "27/05/2026"},
+        {"rank": 4, "player": "l14", "time": "00:29:03", "car": "r34", "date": "25/05/2026"}
     ]
   }
 }

@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const maps = [
         { id: 'acres_fields', file: 'leaderboards/acres_fields.json' },
-        // { id: 'beta_center', file: 'leaderboards/beta_center.json' }
+        { id: 'beta_center', file: 'leaderboards/beta_center.json' }
     ];
 
     const categoryNames = {
-        'classic_race': 'Classic Race'
+        'best_lap': 'Best Lap'
     };
 
     const rankClasses = { 1: 'gold', 2: 'silver', 3: 'bronze' };

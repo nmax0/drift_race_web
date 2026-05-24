@@ -1,8 +1,12 @@
 {
   "map_name": "Acres Fields",
   "categories": {
-    "classic_race": [
-        {"rank": 1, "player": "l14", "time": "00:19:51", "car": "r34", "date": "24/03/2026"}
+    "best_lap": [
+        {"rank": 1, "player": "lucas_rs", "time": "00:21:50", "car": "r34", "date": "26/05/2026"},
+        {"rank": 2, "player": "nmax", "time": "00:21:77", "car": "911", "date": "26/05/2026"},
+        {"rank": 3, "player": "l14", "time": "00:23:42", "car": "r34", "date": "25/05/2026"},
+        {"rank": 4, "player": "legoman", "time": "00:26:46", "car": "r34", "date": "27/05/2026"},
+        {"rank": 5, "player": "tom", "time": "00:29:13", "car": "ae86", "date": "27/05/2026"}
     ]
   }
 }
