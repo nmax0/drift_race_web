@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const maps = [
         { id: 'acres_fields', file: 'leaderboards/acres_fields.json' },
-        { id: 'beta_center', file: 'leaderboards/beta_center.json' }
+        { id: 'arctic_apex', file: 'leaderboards/arctic_apex.json' }
     ];
 
     const categoryNames = {
